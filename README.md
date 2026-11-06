@@ -4,10 +4,10 @@ Built at the GDGoC hackathon, Top 10 at HalShnas BNU Hackathon 2025.
 
 ## Screenshots
 
-![Home page](screenshots/home.png)
-![Upload page](screenshots/upload.png)
-![Skills and career path](screenshots/results.png)
-![Job suggestions](screenshots/jobs.png)
+![Home page](home.png)
+![Upload page](upload.png)
+![Skills and career path](results.png)
+![Job suggestions](jobs.png)
 
 ## What it is
 
